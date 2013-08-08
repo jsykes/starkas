@@ -1,0 +1,21 @@
+do a private, public, protected   organize
+
+test ALL includes to free up memory
+
+
+
+fix the agility effects
+
+fix the getting player stuck.
+
+check game mechanics and audio loads to ensure it's correct. same for the correct sound file being loaded.
+
+fix collision for player and all accuracy.
+
+add smarter enemy shooting.
+
+half the sound effect volume
+
+add a pause graphic
+
+add a low health flashing thing

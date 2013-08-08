@@ -1,0 +1,1 @@
+teamLogo.o: teamLogo.s

@@ -1,0 +1,1 @@
+wireframeship.o: wireframeship.s

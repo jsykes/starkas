@@ -1,0 +1,1 @@
+wireframespecks.o: wireframespecks.s
